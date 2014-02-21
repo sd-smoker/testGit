@@ -12,4 +12,7 @@ public class MainTest
     public void delete(){
         System.out.println("Delete");
     }
+    public void edit(){
+        System.out.println("Edit");
+    }
 }
