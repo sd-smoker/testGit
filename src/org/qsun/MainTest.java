@@ -8,4 +8,5 @@ package org.qsun;
  */
 public class MainTest
 {
+    private String ss = "";
 }
