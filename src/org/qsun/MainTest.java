@@ -9,7 +9,7 @@ package org.qsun;
 public class MainTest
 {
     private String ss = "";
-    public void add(){
-        System.out.println("Add");
+    public void edit(){
+        System.out.println("Edit");
     }
 }
