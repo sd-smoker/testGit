@@ -17,4 +17,8 @@ public class MainTest
         System.out.println("Edit");
     }
 
+    public void addUser(){
+        System.out.println("Add User");
+    }
+
 }
