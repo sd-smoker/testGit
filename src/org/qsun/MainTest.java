@@ -9,10 +9,12 @@ package org.qsun;
 public class MainTest
 {
     private String ss = "";
+    private String s = "implement the add edit delete update functions";
     public void delete(){
         System.out.println("Delete");
     }
     public void edit(){
         System.out.println("Edit");
     }
+
 }
