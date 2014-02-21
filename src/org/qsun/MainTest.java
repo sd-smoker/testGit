@@ -25,4 +25,8 @@ public class MainTest
         System.out.println("deleteUser");
     }
 
+    public void addUser(){
+        System.out.println("Add User");
+    }
+
 }
