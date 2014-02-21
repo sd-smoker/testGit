@@ -16,7 +16,7 @@ public class MainTest
     public void edit(){
         System.out.println("Edit");
     }
-    
+
     public void deleteUser(){
         System.out.println("deleteUser");
     }
